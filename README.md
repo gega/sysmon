@@ -16,7 +16,7 @@ standard JSON array with the following fields:
 
   command to check if service is healthy. return value should be 0 if the service is running and healthy.
 
-#example
+# example
 
 ```
 [
